@@ -1,0 +1,11 @@
+name,price,quantity,category
+Laptop,999.99,50,Electronics
+Mouse,29.99,200,Electronics
+Keyboard,79.99,150,Electronics
+Monitor,349.99,75,Electronics
+Headphones,149.99,100,Electronics
+Coffee Maker,89.99,60,Appliances
+Blender,59.99,80,Appliances
+Desk Chair,199.99,45,Furniture
+Water Bottle,14.99,300,Sports
+Backpack,49.99,120,Accessories
